@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/gmbt-single-spa-gmbt-single-spa-poc-page-b.tsx"],
+  "files": ["src/gmbt-single-spa-poc-page-b.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }

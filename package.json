@@ -1,5 +1,5 @@
 {
-  "name": "@gmbt-single-spa/gmbt-single-spa-poc-page-b",
+  "name": "@gmbt-single-spa/poc-page-b",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
@@ -60,5 +60,5 @@
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9"
   },
-  "types": "dist/gmbt-single-spa-gmbt-single-spa-poc-page-b.d.ts"
+  "types": "dist/gmbt-single-spa-poc-page-b.d.ts"
 }
